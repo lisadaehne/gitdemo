@@ -1,2 +1,1 @@
-#bla
-# bla2
+print('Hello world')
